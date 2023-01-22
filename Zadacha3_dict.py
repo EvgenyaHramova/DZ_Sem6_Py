@@ -24,7 +24,3 @@ for key in friends:
 print('\nСреднее значение возраста друзей: ', summa/count)
 print('\nСаммое длинное имя - ', max(friends))
 
-
-
-
-#print('\nСредний возраст друзей ', friends.mean(friends))
